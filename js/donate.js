@@ -20,7 +20,7 @@ document.getElementById('noakhali-donate-money').addEventListener('click', funct
         const div = document.createElement('div');
         div.innerHTML = `
              <div class="border border-slate-200 rounded-lg space-y-4 p-5">
-             <h3 class="text-2xl font-bold">${donateMoney} Taka is Donated for Aid for Injured in the Quota Movement, Bangladesh</h3>
+             <h3 class="text-2xl font-bold">${donateMoney} Taka is Donated  for Flood at Noakhali, Bangladesh</h3>
              <p>${date}</p>
             </div>
         `
@@ -54,7 +54,7 @@ document.getElementById('feni-donate-money').addEventListener('click', function 
         const div = document.createElement('div');
         div.innerHTML = `
              <div class="border border-slate-200 rounded-lg space-y-4 p-5">
-             <h3 class="text-2xl font-bold">${donateMoney} Taka is Donated for Aid for Injured in the Quota Movement, Bangladesh</h3>
+             <h3 class="text-2xl font-bold">${donateMoney}  Taka is Donated for Flood Relief in Feni, Bangladesh</h3>
              <p>${date}</p>
             </div>
         `
