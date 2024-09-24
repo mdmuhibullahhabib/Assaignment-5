@@ -4,3 +4,6 @@ document.getElementById('show-donate-section').addEventListener('click', functio
 document.getElementById('show-history-section').addEventListener('click', function(){
     showSectionById('history-section');
 })
+
+
+
